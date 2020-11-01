@@ -23,3 +23,6 @@ https://icons8.com/
 
 ## Some pictures of application
 
+![Main app interface](https://raw.githubusercontent.com/losek1/SamPy/main/images/1.png)
+![Generating hashes](https://raw.githubusercontent.com/losek1/SamPy/main/images/5.png)
+![Duplicated files](https://raw.githubusercontent.com/losek1/SamPy/main/images/6.png)
